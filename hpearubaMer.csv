@@ -1,0 +1,120 @@
+,Series_x,Model_x,Price_x,Specs_x,EoS_x,EoL_x,Equivalent_x,Accessories,Notes,Series_y,Model_y,Price_y,Specs_y,Equivalent_y
+0,1900,HPE OfficeConnect 1920S 8G Switch,,"L2, 8x1GbE",,,MS120-8,,,MS120 Compact,MS120-8,$972,"L2, 8x1GbE + 2x1G SFP, External PSU",-
+1,1930 (Instant On),JL680A Aruba Instant On 1930 8G 2SFP Switch,,"L2, 8x1GbE + 2x1G SFP",,,MS120-8,,,MS120 Compact,MS120-8,$972,"L2, 8x1GbE + 2x1G SFP, External PSU",-
+2,,J9777A 2530-8G,,"L2, 8x1GbE + 1x1GbE/1G SFP (dual-personality)",9/30/17,1/30/22,MS120-8,,,MS120 Compact,MS120-8,$972,"L2, 8x1GbE + 2x1G SFP, External PSU",-
+3,,J9783A 2530-8,,"L2, 8x1GbE + 1x1GbE/1G SFP (dual-personality)",9/30/17,1/30/22,MS120-8,,,MS120 Compact,MS120-8,$972,"L2, 8x1GbE + 2x1G SFP, External PSU",-
+4,,HPE OfficeConnect 1920S 24G 2SFP Switch,,"L2, 24x1GbE + 2x1G SFP",,,MS120-24,,,MS120,MS120-24,"$2,816","L2, 24x1GbE + 4x1G SFP, Internal PSU",-
+5,,J9776A 2530-24G,,"L2, 24x1GbE + 4x1G (SFP)",9/30/17,1/30/22,MS120-24,,,MS120,MS120-24,"$2,816","L2, 24x1GbE + 4x1G SFP, Internal PSU",-
+6,,J9782A 2530-24,,"L2, 24x1GbE + 2x1GbE + 2x1G SFP",9/30/17,1/30/22,MS120-24,,,MS120,MS120-24,"$2,816","L2, 24x1GbE + 4x1G SFP, Internal PSU",-
+7,,J4900C ProCurve 2626,,"L2, 24x100MbE + 2x1GbE/1G SFP (dual-personality)",2/1/10,2/1/15,MS120-24,,,MS120,MS120-24,"$2,816","L2, 24x1GbE + 4x1G SFP, Internal PSU",-
+8,2800 (ProCurve),J4903A ProCurve Switch 2824,,L2. 24x1GbE + 4x1GbE/GBIC (dual-personality),12/1/09,12/1/14,MS120-24,,,MS120,MS120-24,"$2,816","L2, 24x1GbE + 4x1G SFP, Internal PSU",-
+9,2910 (ProCurve),J9145A ProCurve 2910al-24G,,"L2, 24x1GbE + 4x dual-personality 1GbE/SFP (upg. to 10G)",5/31/14,5/31/19,MS120-24,,**Up to MS125 if using 10G module,MS120,MS120-24,"$2,816","L2, 24x1GbE + 4x1G SFP, Internal PSU",-
+10,,R8N88A 6000 24G 4SFP ,,"L2, 24x1GbE + 4x1G SFP",,,MS120-24,,,MS120,MS120-24,"$2,816","L2, 24x1GbE + 4x1G SFP, Internal PSU",-
+11,,HPE OfficeConnect 1920S 48G 4SFP Switch,,"L2, 48x1GbE + 4x1G SFP",,,MS120-48,,,,MS120-48,"$3,602","L2, 48x1GbE + 4x1G SFP, internal PSU",-
+12,,J9775A 2530-48G,,"L2, 48x1GbE + 4x1G SFP",9/30/17,1/30/22,MS120-48,,,,MS120-48,"$3,602","L2, 48x1GbE + 4x1G SFP, internal PSU",-
+13,,J9781A 2530-48,,"L2, 48x1GbE + 2x1GbE + 2x1G SFP",9/30/17,1/30/22,MS120-48,,,,MS120-48,"$3,602","L2, 48x1GbE + 4x1G SFP, internal PSU",-
+14,2600 (ProCurve),J4899A ProCure 2650,,"L2, 48x100MbE + 2x1G SFP, opt. modules/expansion slots",2/1/10,2/1/15,MS120-48,,,,MS120-48,"$3,602","L2, 48x1GbE + 4x1G SFP, internal PSU",-
+15,,J4899B ProCurve 2650,,"L2, 48x100MbE + 2x1GbE/1G SFP (dual-personality)",2/1/10,2/1/15,MS120-48,,,,MS120-48,"$3,602","L2, 48x1GbE + 4x1G SFP, internal PSU",-
+16,,J4899C ProCurve 2650,,"L2, 48x100MbE + 2x1GbE/1G SFP (dual-personality)",2/1/10,2/1/15,MS120-48,,,,MS120-48,"$3,602","L2, 48x1GbE + 4x1G SFP, internal PSU",-
+17,,J4904A ProCurve Switch 2848,,L2. 48x1GbE + 4x1GbE/GBIC (dual-personality),12/1/09,12/1/14,MS120-48,,,,MS120-48,"$3,602","L2, 48x1GbE + 4x1G SFP, internal PSU",-
+18,,J9147A ProCurve 2910al-48G,,"L2, 48x1GbE + 4x dual-personality 1GbE/SFP (upg. to 10G)",5/31/14,5/31/19,MS120-48,,**Up to MS125 if using 10G module,,MS120-48,"$3,602","L2, 48x1GbE + 4x1G SFP, internal PSU",-
+19,,R8N86A 6000 48G 4SFP,"$5,190","L2, 48x1GbE + 4x1G SFP",,,MS120-48,,,,MS120-48,"$3,602","L2, 48x1GbE + 4x1G SFP, internal PSU",-
+20,,HPE OfficeConnect 1920S 24G 2SFP PoE+ 370W Switch,,"L2, 24x1GbE PoE+ + 4x1G SFP",,,MS120-24P,,,,MS120-24P,"$3,589","L2, 24x1GbE PoE+ + 4x1G SFP, internal PSU",-
+21,,J9138A 2520-24-PoE,,"L2, 24x100MbE PoE + 2x1GbE + 2x1GbE/SFP combo",,,MS120-24P,,,,MS120-24P,"$3,589","L2, 24x1GbE PoE+ + 4x1G SFP, internal PSU",-
+22,,J9773A 2530-24G-PoE+ ,,"L2, 24x1GbE + 4x1G (SFP)",9/30/17,1/30/22,MS120-24P,,,,MS120-24P,"$3,589","L2, 24x1GbE PoE+ + 4x1G SFP, internal PSU",-
+23,,J9779A 2530-24-PoE+,,"L2, 24x1GbE PoE+ + 2x1G SFP + 2x1G",9/30/17,1/30/22,MS120-24P,,,,MS120-24P,"$3,589","L2, 24x1GbE PoE+ + 4x1G SFP, internal PSU",-
+24,,J8164A ProCurve 2626-PWR,,"L2, 24x100MbE PoE + 2x1GbE/1G SFP (dual-personality)",2/1/10,2/1/15,MS120-24P,,,,MS120-24P,"$3,589","L2, 24x1GbE PoE+ + 4x1G SFP, internal PSU",-
+25,,J9146A ProCurve 2910al-24G-PoE+,,"L2, 24x1GbE PoE+ + 4x dual-personality 1GbE/SFP (upg. to 10G)",5/31/14,5/31/19,MS120-24P,,**Up to MS125 if using 10G module,,MS120-24P,"$3,589","L2, 24x1GbE PoE+ + 4x1G SFP, internal PSU",-
+26,,R8N87A 6000 24G Class4 PoE 4SFP 370W,,"L2, 24x1GbE PoE+ (370W) + 4x1G SFP",,,MS120-24P,,,,MS120-24P,"$3,589","L2, 24x1GbE PoE+ + 4x1G SFP, internal PSU",-
+27,,HP 1920-48G-PoE+ (370W) Switch,,"L2, 48x1GbE PoE+ + 4x1G SFP",,,MS120-48LP,,,,MS120-48LP,"$4,874","L2, 48x1GbE PoE+ (370W) + 4x1G SFP, internal PSU",-
+28,,J9772A 2530-48G-POE+,,"L2, 48x1GbE PoE+ + 4x1G (SFP)",9/30/17,1/30/22,MS120-48LP,,,,MS120-48LP,"$4,874","L2, 48x1GbE PoE+ (370W) + 4x1G SFP, internal PSU",-
+29,,J9778A 2530-48-PoE+,,"L2, 48x1GbE PoE+ + 2x1GbE + 2x1G",9/30/17,1/30/22,MS120-48LP,,,,MS120-48LP,"$4,874","L2, 48x1GbE PoE+ (370W) + 4x1G SFP, internal PSU",-
+30,,J8165A ProCurve 2650-PWR,,"L2, 48x100MbE PoE + 2x1GbE/1G SFP (dual-personality)",2/1/10,2/1/15,MS120-48LP,,,,MS120-48LP,"$4,874","L2, 48x1GbE PoE+ (370W) + 4x1G SFP, internal PSU",-
+31,CX 6000,R8N85A  6000 48G Class4 PoE 4SFP,,"L2, 48x1GbE PoE+ (370W) + 4x1G SFP",,,MS120-48LP,,,,MS120-48LP,"$4,874","L2, 48x1GbE PoE+ (370W) + 4x1G SFP, internal PSU",-
+32,,JL681A Aruba Instant On 1930 8G Class4 PoE 2SFP 124W Switch,,"L2, 8x1GbE PoE (124W) + 2x1G SFP",,,MS120-8FP,,,,MS120-8FP,"$1,645","L2, 8x1GbE PoE+ (124W) + 2x1G SFP, External PSU (150WAC)",-
+33,,J9774A 2530-8G-PoE+,,"L2, 8x1GbE + 2x1G (SFP-combined), PoE+",9/30/17,1/30/22,MS120-8FP,,,,MS120-8FP,"$1,645","L2, 8x1GbE PoE+ (124W) + 2x1G SFP, External PSU (150WAC)",-
+34,,JL682A Aruba Instant On 1930 24G 4SFP/SFP+ Switch,,"L2, 24x1GbE + 4x10G SFP+",,,MS125-24,,,MS125,MS125-24,"$2,816","L2, 24x1GbE + 4x10G SFP+, Internal PSU",-
+35,2540,JL354A 2540 24G 4SFP+,,"L2, 24x1GbE + 4x10G (SFP+)",10/31/21,10/31/26,MS125-24,,,MS125,MS125-24,"$2,816","L2, 24x1GbE + 4x10G SFP+, Internal PSU",-
+36,,JL678A 6100 24G 4SFP+ Switch,,"L2, 24x1GbE + 4x10G SFP+",,,MS125-24,,,MS125,MS125-24,"$2,816","L2, 24x1GbE + 4x10G SFP+, Internal PSU",-
+37,,JL683A Aruba Instant On 1930 24G Class4 PoE 4SFP/SFP+ 195W Switch,,"L2, 24x1GbE PoE (195W) + 4x10G SFP+",,,MS125-24P,,,,MS125-24P,"$4,608","L2, 24x1GbE PoE+ + 4x10G SFP+, internal PSU",-
+38,,JL684A Aruba Instant On 1930 24G Class4 PoE 4SFP/SFP+ 370W Switch,,"L2, 24x1GbE PoE (370W) + 4x10G SFP+",,,MS125-24P,,,,MS125-24P,"$4,608","L2, 24x1GbE PoE+ + 4x10G SFP+, internal PSU",-
+39,,JL356A 2540 24G Poe+ 4SFP+,,"L2, 24x1GbE + 4x10G (SFP+), PoE+",10/31/21,10/31/26,MS125-24P,,,,MS125-24P,"$4,608","L2, 24x1GbE PoE+ + 4x10G SFP+, internal PSU",-
+40,,JL677A 6100 24G Class4 PoE 4SFP+ 370W Switch,,"L2, 24x1GbE PoE+ (370W) + 4x10G SFP+",,,MS125-24P,,,,MS125-24P,"$4,608","L2, 24x1GbE PoE+ + 4x10G SFP+, internal PSU",-
+41,,JL685A Aruba Instant On 1930 48G 4SFP/SFP+ Switch,,"L2, 48x1GbE + 4x10G SFP+",,,MS125-48,,,,MS125-48,"$4,135","L2, 48x1GbE + 4x10G SFP+, internal PSU",-
+42,,JL355A 2540 48G 4SFP+,,"L2, 48x1GbE + 4x10G (SFP+)",10/31/21,10/31/26,MS125-48,,,,MS125-48,"$4,135","L2, 48x1GbE + 4x10G SFP+, internal PSU",-
+43,,JL676A 6100 48G 4SFP+ Switch,"$7,716","L2, 48x1GbE + 4x10G SFP+",,,MS125-48,,,,MS125-48,"$4,135","L2, 48x1GbE + 4x10G SFP+, internal PSU",-
+44,,JL686A Aruba Instant On 1930 48G Class4 PoE 4SFP/SFP+ 370W Switch,,"L2, 48x1GbE PoE (370W) + 4x10G SFP+",,,MS125-48LP,,,,MS125-48LP,"$5,430","L2, 48x1GbE PoE+ (370W) + 4x10G SFP+, internal PSU",-
+45,2530,J9855A 2530-48G-2SFP+ POE,,"L2, 48x1GbE + 2x10GbE (SFP+), PoE+",9/30/17,1/30/22,MS125-48LP,,,,MS125-48LP,"$5,430","L2, 48x1GbE PoE+ (370W) + 4x10G SFP+, internal PSU",-
+46,,JL357A 2540 48G PoE+ 4SFP+,,"L2, 48x1GbE + 4x10G (SFP+), PoE+",10/31/21,10/31/26,MS125-48LP,,,,MS125-48LP,"$5,430","L2, 48x1GbE PoE+ (370W) + 4x10G SFP+, internal PSU",-
+47,CX 6100,JL675A  6100 48G Class4 PoE 4SFP+ 370W Switch,,"L2, 48x1GbE PoE+ (370W) + 4x10G SFP+",,,MS125-48LP,,,,MS125-48LP,"$5,430","L2, 48x1GbE PoE+ (370W) + 4x10G SFP+, internal PSU",-
+48,2520,J9137A 2520-8-PoE,,"L2, 8x100MbE PoE + 2x1GbE/SFP combo",,,MS120-8LP,,,,MS120-8LP,"$1,278","L2, 8x1GbE PoE+ (67W) + 2x1G SFP, External PSU (90WAC)",-
+49,,J9780A  2530-8-PoE+,,"L2, 8x1GbE PoE+ + 1x1GbE/1G SFP (dual-personality)",9/30/17,1/30/22,MS120-8LP,,,,MS120-8LP,"$1,278","L2, 8x1GbE PoE+ (67W) + 2x1G SFP, External PSU (90WAC)",-
+50,,J9148A ProCurve 2910al-48G-PoE+,,"L2, 48x1GbE PoE+ + 4x dual-personality 1GbE/SFP (upg. to 10G)",5/31/14,5/31/19,MS120-48FP,,**Up to MS125 if using 10G module,,MS120-48FP,"$6,614","L2, 48x1GbE PoE+ (740W) + 4x1G SFP, internal PSU",-
+51,2920,J9726A 2920 24G Switch,,"L2, 20x1GbE + 4 x dual-personality 1GbE, stackable, opt. modules",6/30/18,6/30/23,MS225-24,,,MS225,MS225-24,"$5,536","L2, 24x1GbE + 4x10G SFP+, Internal PSU, stackable (210/225)",-
+52,5130,JG932A 5130-24G-4SFP+,,"L2, 24x1GbE + 4x10G SFP+, stackable",,,MS225-24,,,MS225,MS225-24,"$5,536","L2, 24x1GbE + 4x10G SFP+, Internal PSU, stackable (210/225)",-
+53,,JG938A 5130-24G-2SFP+-2XGT,,"L2, 24x1GbE + 2x10G SFP+ + 2x10GbE, stackable",,,MS225-24,,**No copper 10GbE ports,MS225,MS225-24,"$5,536","L2, 24x1GbE + 4x10G SFP+, Internal PSU, stackable (210/225)",-
+54,,J9727A 2920-24G-PoE+,,"L2, 20x1GbE PoE+ + 4 x dual-personality 1GbE PoE+, stackable, opt. modules",6/30/18,6/30/23,MS225-24P,,,,MS225-24P,"$6,447","L2, 24x1GbE PoE+ + 4x10G SFP+, internal PSU, stackable (210/225)",-
+55,,JG936A 5130-24G-PoE+-4SFP+ (370W),,"L2, 24x1GbE PoE+ + 4x10G SFP+, stackable",,,MS225-24P,,,,MS225-24P,"$6,447","L2, 24x1GbE PoE+ + 4x10G SFP+, internal PSU, stackable (210/225)",-
+56,,JG940A 5130-24G-PoE+-2SFP-2XGT (370W),,"L2, 24x1GbE PoE+ + 2x10G SFP+ + 2x10GbE, stackable",,,MS225-24P,,**No copper 10GbE ports,,MS225-24P,"$6,447","L2, 24x1GbE PoE+ + 4x10G SFP+, internal PSU, stackable (210/225)",-
+57,S2500,S2500-24P,,"L2, 24x1GbE PoE+ + 4x10G SFP+, stackable",12/31/16,12/31/21,MS225-24P,,,,MS225-24P,"$6,447","L2, 24x1GbE PoE+ + 4x10G SFP+, internal PSU, stackable (210/225)",-
+58,,J9728A 2920-48G,,"L2, 44x1GbE + 4 x dual-personality 1GbE, stackable, opt. modules",10/31/18,10/31/23,MS225-48,,,,MS225-48,"$7,577","L2, 48x1GbE + 4x10G SFP+, internal PSU, stackable (210/225)",-
+59,,JG934A 5130-48G-4SFP+,,"L2, 48x1GbE + 4x10G SFP+, stackable",,,MS225-48,,,,MS225-48,"$7,577","L2, 48x1GbE + 4x10G SFP+, internal PSU, stackable (210/225)",-
+60,,JG939A 5130-48G-2SFP+-2XGT,,"L2, 48x1GbE + 2x10G SFP+ + 2x10GbE, stackable",,,MS225-48,,**No copper 10GbE ports,,MS225-48,"$7,577","L2, 48x1GbE + 4x10G SFP+, internal PSU, stackable (210/225)",-
+61,,S2500-24T,,"L2, 48x1GbE + 4x10G SFP+, stackable",,,MS225-48,,,,MS225-48,"$7,577","L2, 48x1GbE + 4x10G SFP+, internal PSU, stackable (210/225)",-
+62,,J9729A 2920-48G-PoE+,,"L2, 44x1GbE PoE+ + 4 x dual-personality 1GbE PoE+, stackable, opt.modules",10/31/18,10/31/23,MS225-48LP,,,,MS225-48LP,"$9,162","L2, 48x1GbE PoE+ (370W) + 4x10G SFP+, internal PSU, stackable (210/225)",-
+63,,JG937A 5130-48G-PoE+-4SFP+ (370W),,"L2, 48x1GbE PoE+ + 4x10G SFP+, stackable",,,MS225-48LP,,,,MS225-48LP,"$9,162","L2, 48x1GbE PoE+ (370W) + 4x10G SFP+, internal PSU, stackable (210/225)",-
+64,,JG941A5130-48G-PoE+-2SFP+-2XGT (370W),,"L2, 48x1GbE PoE+ + 2x10G SFP+ + 2x10GbE, stackable",,,MS225-48LP,,**No copper 10GbE ports,,MS225-48LP,"$9,162","L2, 48x1GbE PoE+ (370W) + 4x10G SFP+, internal PSU, stackable (210/225)",-
+65,,S2500-48P,,"L2, 48x1GbE PoE+ + 4x10G SFP+, stackable",,,MS225-48LP,,,,MS225-48LP,"$9,162","L2, 48x1GbE PoE+ (370W) + 4x10G SFP+, internal PSU, stackable (210/225)",-
+66,,J9836A 2920-48G-PoE+ 740W,,"L2, 44x1GbE PoE+ + 4 x dual-personality 1GbE PoE+, stackable, opt. modules",10/31/18,10/31/23,MS225-48FP,,,,MS225-48FP,"$10,292","L2, 48x1GbE PoE+ (740W) + 4x10G SFP+, internal PSU, stackable (210/225)",-
+67,2930F,JL253A 2930F 24G 4SFP+ Switch,,"L2/3, 24x1GbE + 4x10G (SFP+), stackable",,,MS250-24,,,MS250,MS250-24,"$7,914","L3, 24x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+68,,JL259A 2930F 24G 4SFP Switch,,"L2/3, 24x1GbE + 4x1G SFP, stackable",,,MS250-24,,MS210-24 if L3 not needed,MS250,MS250-24,"$7,914","L3, 24x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+69,,J9575A 3800-24G-2SFP+ Switch,,"L3, 24x1GbE + 2x10G SFP+, stackable",,,MS250-24,,,MS250,MS250-24,"$7,914","L3, 24x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+70,,JL254A 2930F 48G 4SFP+ Switch,,"L2/3, 48x1GbE + 4x10G SFP+, stackable",,,MS250-48,,,,MS250-48,"$11,084","L3, 48x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+71,,JL321A 2930M 48G 1-slot switch,,"L2/3, 44x1GbE + 4x1GbE or 1G SFP-combined, stackable",,,MS250-48,,,,MS250-48,"$11,084","L3, 48x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+72,,J9676A 3800-48G-4SFP+ Switch,,"L3, 48x1GbE + 4x10G SFP+, stackable",,,MS250-48,,,,MS250-48,"$11,084","L3, 48x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+73,,JL726A 6200F 48G 4SFP+,"$13,629","L3, 48x1GbE + 4x10G SFP+, stackable",,,MS250-48,,,,MS250-48,"$11,084","L3, 48x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+74,,JL255A 2930F 24G PoE+ 4SFP+ Switch,,"L2/3, 24x1GbE + 4x10G (SFP+), PoE+, stackable",,,MS250-24P,,,,MS250-24P,"$8,594","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+75,,JL320A 2930M 24G PoE+ 1-slot switch,,"L2/3, 20x1GbE + 4x1GbE or 1G SFP-combined, PoE+, stackable",,,MS250-24P,,,,MS250-24P,"$8,594","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+76,3800,J9573A  3800-24G-PoE+-2SFP+ Switch,,"L3, 24x1GbE PoE+ + 2x10G SFP+",,,MS250-24P,,,,MS250-24P,"$8,594","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+77,,JL725A 6200F 24G CLASS4 POE 4SFP+ 370W,,"L3, 24x1GbE PoE+ (370W) + 4x10G SFP+, stackable",,,MS250-24P,,,,MS250-24P,"$8,594","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+78,,JL256A 2930F 48G PoE+ 4SFP+ Switch,,"L2/3, 48x1GbE + 4x10G (SFP+), PoE+ (LP), stackable",,,MS250-48LP,,Make sure to look at L2/L3 requirements,,MS250-48LP,"$12,675","L3, 48x1GbE PoE+ (370W) + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+79,,JL727A 6200F 48G CLASS4 POE 4SFP+ 370W,,"L3, 48x1GbE PoE+ (370W) + 4x10G SFP+, stackable",,,MS250-48LP,,,,MS250-48LP,"$12,675","L3, 48x1GbE PoE+ (370W) + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+80,,JL557A 2930F 48G PoE+ 4SFP+ 740W Switch,,"L2/3, 48x1GbE PoE+ + 4x10G SFP+, stackable",,,MS250-48FP,,,,MS250-48FP,"$13,805","L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+81,,JL558A 2930F 48G PoE+ 4SFP+ 740W Switch,,"L2/3, 48x1GbE PoE+ + 4x10G SFP+, stackable",,,MS250-48FP,,,,MS250-48FP,"$13,805","L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+82,,JL322A 2930M 48G PoE+ 1-slot switch,,"L2/3, 44x1GbE + 4x1GbE or 1G SFP-combined, PoE+, stackable",,,MS250-48FP,,,,MS250-48FP,"$13,805","L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+83,,J9574A  3800-48G-PoE+-4SFP+ Switch,,"L3, 48x1GbE Poe+ + 4x10G SFP+, stackable",,,MS250-48FP,,,,MS250-48FP,"$13,805","L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+84,,JL728A 6200F 48G CLASS4 POE 4SFP+ 740W,,"L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, stackablee",,,MS250-48FP,,,,MS250-48FP,"$13,805","L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+85,,JL323A 2930M 40G 8 HPE Smart Rate PoE+,,"L2/3, 36x1GbE + 4x1GbE or 1G SFP + 8mGig, PoE+, stackable",,,MS355-48X,,,,MS355-48X,"$22,256","L3, 32x1GbE PoE+ + 16x10GbE UPoE (740W) + 4x10G SFP+ OR 2x40G QSFP+, redundant PSU (2), stackable",-
+86,,R0M67A 2930M 40G 8 HPE Smart Rate PoE Class 6,,"L2/3, 36x1GbE + 4x1GbE or 1G SFP + 8mGig, UPoE, stackable",,,MS355-48X,,,,MS355-48X,"$22,256","L3, 32x1GbE PoE+ + 16x10GbE UPoE (740W) + 4x10G SFP+ OR 2x40G QSFP+, redundant PSU (2), stackable",-
+87,,JL076A 3810M 40G 8 HPE Smart Rate PoE+ 1-slot,,"L3, 40x1GbE PoE+** + 8x10mGbE, stackable
+Supports 4x10G SFP+ or 1x40G QSFP+ w/ opt. module",12/31/22,12/31/22,MS355-48X,,**MACsec capable,,MS355-48X,"$22,256","L3, 32x1GbE PoE+ + 16x10GbE UPoE (740W) + 4x10G SFP+ OR 2x40G QSFP+, redundant PSU (2), stackable",-
+88,mms,JL075A 3810M 16SFP+ 2-slot switch,,"L2/3, 16x10G (SFP+), opt. module",12/31/22,12/31/22,MS425-16,,,MS425,MS425-16,"$18,548","L3, 16x10G SFP+ + 2x40G QSFP+, redundant PSU (2), stackable via SFP port",-
+89,,JL095A 5406R 16-port SFP+,,"4U Chassis Switch w/ 6 open module slots with 16x10G SFP+ included:
+2x8 10G SFP+ Module (J9993A)",,,MS425-16,,"Start with this setup, then expand",MS425,MS425-16,"$18,548","L3, 16x10G SFP+ + 2x40G QSFP+, redundant PSU (2), stackable via SFP port",-
+90,,"JL702A  8360-16Y2C Port-to-Power 3 Fans, 2 Power Supplies ",,See datasheet - many different configurations,2/28/23,2/28/31,MS425-16,,"**No 25G, only 40G uplinks",MS425,MS425-16,"$18,548","L3, 16x10G SFP+ + 2x40G QSFP+, redundant PSU (2), stackable via SFP port",-
+91,,"JL703A 8360-16Y2C Power-to-Port 3 Fans, 2 Power Supplies ",,See datasheet - many different configurations,2/28/23,2/28/31,MS425-16,,"**No 25G, only 40G uplinks",MS425,MS425-16,"$18,548","L3, 16x10G SFP+ + 2x40G QSFP+, redundant PSU (2), stackable via SFP port",-
+92,,"JL702C  8360-16Y2C v2 Port-to-Power 3 Fans, 2 Power Supplies ",,See datasheet - many different configurations,,,MS425-16,,"**No 25G, only 40G uplinks",MS425,MS425-16,"$18,548","L3, 16x10G SFP+ + 2x40G QSFP+, redundant PSU (2), stackable via SFP port",-
+93,,"JL703C 8360-16Y2C v2 Power-to-Port 3 Fans, 2 Power Supplies ",,See datasheet - many different configurations,,,MS425-16,,"**No 25G, only 40G uplinks",MS425,MS425-16,"$18,548","L3, 16x10G SFP+ + 2x40G QSFP+, redundant PSU (2), stackable via SFP port",-
+94,,JL428A 3810M 48G PoE+ 4SFP+ 680W,,"L3, 48x1GbE PoE+ (650W) + 4x10G SFP+, stackable",12/31/22,12/31/22,MS350-48FP,,,,MS350-48FP,"$15,413","L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, redundant PSU (2), stackable (350 only)",-
+95,,JL429A 3810M 48G PoE+ 4SFP+ 1050W Switch,,"L3, 48x1GbE PoE+ (1050W) + 4x10G SFP+, stackable",12/31/22,12/31/22,MS350-48FP,MA-PWR-1025WAC,,,MS350-48FP,"$15,413","L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, redundant PSU (2), stackable (350 only)",-
+96,,JL430A 3810M 24SFP+ 250W Switch,,"L3, 24x10G SFP+, stackable",12/31/22,12/31/22,MS425-32,,,,MS425-32,"$29,147","L3, 32x10G SFP+ + 2x40G QSFP+, redundant PSU (2), stackable via SFP port",-
+97,CX 6300,JL658A 6300M 24-port SFP+/4-port SFP56,,"L3, 24x10G SFP+ + 4x1/10/25/50G SFP56, stackable",,,MS425-32,,**No 25 or 50G,,MS425-32,"$29,147","L3, 32x10G SFP+ + 2x40G QSFP+, redundant PSU (2), stackable via SFP port",-
+98,CX 8360v1,"JL700A 8360-32Y4C MACsec Port-to-Power 3 Fans, 2 Power Supplies ",,See datasheet - many different configurations,2/28/23,2/28/31,MS425-32,,"**No 25G, only 40G uplinks",,MS425-32,"$29,147","L3, 32x10G SFP+ + 2x40G QSFP+, redundant PSU (2), stackable via SFP port",-
+99,,"JL701A 8360-32Y4C MACsec Power-to-Port 3 Fans, 2 Power Supplies",,See datasheet - many different configurations,2/28/23,2/28/31,MS425-32,,"**No 25G, only 40G uplinks",,MS425-32,"$29,147","L3, 32x10G SFP+ + 2x40G QSFP+, redundant PSU (2), stackable via SFP port",-
+100,CX 8360v2,"JL700C 8360-32Y4C v2 MACsec Port-to-Power 3 Fans, 2 Power Supplies ",,See datasheet - many different configurations,,,MS425-32,,"**No 25G, only 40G uplinks",,MS425-32,"$29,147","L3, 32x10G SFP+ + 2x40G QSFP+, redundant PSU (2), stackable via SFP port",-
+101,,"JL701C 8360-32Y4C v2 MACsec Power-to-Port 3 Fans, 2 Power Supplies",,See datasheet - many different configurations,,,MS425-32,,"**No 25G, only 40G uplinks",,MS425-32,"$29,147","L3, 32x10G SFP+ + 2x40G QSFP+, redundant PSU (2), stackable via SFP port",-
+102,5120 EI,JE069A 5120-48G EI SWITCH WITH 2 INTERFACE SLOTS ,,,,,MS210-48,,,,MS210-48,"$5,826","L2, 48x1GbE + 4x1G SFP, internal PSU, stackable (210/225)",-
+103,,JE067A 5120-48G EI SWITCH ,,,,,MS210-48,,,,MS210-48,"$5,826","L2, 48x1GbE + 4x1G SFP, internal PSU, stackable (210/225)",-
+104,,JE068A 5120-24G EI SWITCH WITH 2 INTERFACE SLOTS ,,,,,MS210-24,,,MS210,MS210-24,"$4,425","L2, 24x1GbE + 4x1G SFP, Internal PSU, stackable (210/225)",-
+105,,JE066A 5120-24G EI SWITCH ,,,,,MS210-24,,,MS210,MS210-24,"$4,425","L2, 24x1GbE + 4x1G SFP, Internal PSU, stackable (210/225)",-
+106,,JG236A  5120-24G-POE+ EI SWITCH WITH 2 INTERFACE SLOTS,,,,,MS210-24P,,,,MS210-24P,"$5,431","L2, 24x1GbE PoE+ + 4x1G SFP, internal PSU, stackable (210/225)",-
+107,,JG933A 5130-24G-SFP-4SFP+,,"L2, 16x1G SFP + 8x10G SFP+ (dual-personality) + 4x10G SFP+, stackable",,,MS410-32,,,,MS410-32,"$19,873","L3, 32x1G SFP + 2x10G SFP+, redundant PSU (2), stackable",-
+108,,JL002A 5406R 8-port 1/2.5/5/10GBASE-T PoE+/8SFP+,,"4U Chassis Switch/ 6 module slots with 8x10GbE PoE+ + 8x10G SFP+ included:
+8-port 10GBASE-T v2 zl Module (J9546A)
+8-port 10GbE SFP+ v2 zl Module (J9538A)",,,MS390-24UX,MA-MOD-8x10G,,,MS390-24UX,"$15,601","L3, 24x10GbE UPoE + opt. module, redundant PSU (2), stackable, opt. StackPower",-
+109,,JL659A 6300M 48-port HPE SR 1/2.5/5GbE C6 PoE/4SFP56,,"L3, 48xmGig UPoE + 4x1/10/25/50G SFP56, stackable",,,MS390-48UX2,4x10G or 2x40G,**mGig goes up to 5G and no 25/50G uplinks,,MS390-48UX2,"$15,005","L3, 48x1/2.5/5GbE + opt. module, redundant PSU (2), stackable, opt. StackPower",-
+110,,JL660A 6300M 24-port HPE SR 1/2.5/5GbE Class 6 PoE and 4-port SFP56,,"L3, 24xmGig UPoE + 4x1/10/25/50G SFP56, stackable",,,MS355-24X2,,**Has 40G but no 25/50G,,MS355-24X2,"$18,418","L3, 24x10GbE UPoE + 4x10G SFP+ OR 2x40G QSFP+, redundant PSU (2), stackable",-
+111,,"JL708A  8360-12C Port-to-Power 3 Fans, 2 Power Supplies ",,See datasheet - many different configurations,2/28/23,2/28/31,MS450-12,,**Has 2 100G uplinks,MS450,MS450-12,"$27,426","L3, 12x40 QSFP+ + 2x100G QSFP28, redundant PSU (2), stackable",-
+112,,"JL709A  8360-12C  Power-to-Port 3 Fans, 2 Power Supplies ",,See datasheet - many different configurations,2/28/23,2/28/31,MS450-12,,**Has 2 100G uplinks,MS450,MS450-12,"$27,426","L3, 12x40 QSFP+ + 2x100G QSFP28, redundant PSU (2), stackable",-
+113,,"JL708C  8360-12C v2 Port-to-Power 3 Fans, 2 Power Supplies ","$45,436",See datasheet - many different configurations,,,MS450-12,,**Has 2 100G uplinks,MS450,MS450-12,"$27,426","L3, 12x40 QSFP+ + 2x100G QSFP28, redundant PSU (2), stackable",-
+114,,"JL709C  8360-12C v2 Power-to-Port 3 Fans, 2 Power Supplies ","$45,436",See datasheet - many different configurations,,,MS450-12,,**Has 2 100G uplinks,MS450,MS450-12,"$27,426","L3, 12x40 QSFP+ + 2x100G QSFP28, redundant PSU (2), stackable",-
