@@ -1,0 +1,39 @@
+,Series_x,Model_x,Specs_x,EoS Date,Equivalent_x,Series_y,Model_y,Price,Specs_y,Equivalent_y
+0,Force10,S25N,"L2, 24x1GbE + 4x1G SFP shared, stackable",7/12/14,MS210-24,MS210,MS210-24,"$4,425","L2, 24x1GbE + 4x1G SFP, Internal PSU, stackable (210/225)",-
+1,,S50N,"L2, 48x1GbE + 4x1G SFP shared, stackable",8/16/14,MS210-24,MS210,MS210-24,"$4,425","L2, 24x1GbE + 4x1G SFP, Internal PSU, stackable (210/225)",-
+2,,S60-44T,"L2, 48x1GbE + 4x1G SFP, stackable",1/11/16,MS210-48,,MS210-48,"$5,826","L2, 48x1GbE + 4x1G SFP, internal PSU, stackable (210/225)",-
+3,,X4012,"L2, 12x10G SFP+",,MS425-16,MS425,MS425-16,"$18,548","L3, 16x10G SFP+ + 2x40G QSFP+, redundant PSU (2), stackable via SFP port",-
+4,5500,PowerConnect 5524,"L2, 24x1GbE + 2x10G SFP+, stackable",9/17/15,MS225-24,MS225,MS225-24,"$5,536","L2, 24x1GbE + 4x10G SFP+, Internal PSU, stackable (210/225)",-
+5,,N1124T-ON,"L2, 24x1GbE + 4x10G SFP+",11/20/20,MS225-24,MS225,MS225-24,"$5,536","L2, 24x1GbE + 4x10G SFP+, Internal PSU, stackable (210/225)",-
+6,N1500,N1524,"L2+ (RIP), 24x1GbE + 4x10G SFP+, stackable",12/31/22,MS225-24,MS225,MS225-24,"$5,536","L2, 24x1GbE + 4x10G SFP+, Internal PSU, stackable (210/225)",-
+7,,PowerConnect 5524P,"L2, 24x1GbE PoE + 2x10G SFP+, stackable",,MS225-24P,,MS225-24P,"$6,447","L2, 24x1GbE PoE+ + 4x10G SFP+, internal PSU, stackable (210/225)",-
+8,,N1124P-ON,"L2, 12x1GbE PoE+ + 12x1GbE + 4x10G SFP+, stackable",,MS225-24P,,MS225-24P,"$6,447","L2, 24x1GbE PoE+ + 4x10G SFP+, internal PSU, stackable (210/225)",-
+9,,N1524P,"L2+ (RIP), 24x1GbE PoE+ + 4x10G SFP+, stackable",,MS225-24P,,MS225-24P,"$6,447","L2, 24x1GbE PoE+ + 4x10G SFP+, internal PSU, stackable (210/225)",-
+10,,PowerConnect 5548,"L2, 48x1GbE + 2x10G SFP+, stackable",,MS225-48,,MS225-48,"$7,577","L2, 48x1GbE + 4x10G SFP+, internal PSU, stackable (210/225)",-
+11,,N1148T-ON,"L2, 48x1GbE + 4x10G SFP+, stackable",,MS225-48,,MS225-48,"$7,577","L2, 48x1GbE + 4x10G SFP+, internal PSU, stackable (210/225)",-
+12,,PowerConnect 5548P,"L2, 48x1GbE PoE + 2x10G SFP+, stackable",,MS225-48LP,,MS225-48LP,"$9,162","L2, 48x1GbE PoE+ (370W) + 4x10G SFP+, internal PSU, stackable (210/225)",-
+13,,N1148P-ON,"L2, 24x1GbE PoE+ + 24x1GbE + 4x10G SFP+, stackable",,MS225-48LP,,MS225-48LP,"$9,162","L2, 48x1GbE PoE+ (370W) + 4x10G SFP+, internal PSU, stackable (210/225)",-
+14,,N1548,"L2+ (RIP), 48x1GbE + 4x10G SFP+, stackable",,MS225-48LP,,MS225-48LP,"$9,162","L2, 48x1GbE PoE+ (370W) + 4x10G SFP+, internal PSU, stackable (210/225)",-
+15,6200,PowerConnect 6224,"L3, 24x1GbE + 4x1G SFP combo, stackable",8/27/15,MS250-24,MS250,MS250-24,"$7,914","L3, 24x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+16,N2000,N2024,"L3, 24x1GbE + 2x10G SFP+, stackable",10/30/20,MS250-24,MS250,MS250-24,"$7,914","L3, 24x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+17,N3000,N3024ET-ON,"L3, 24x1GbE + 2x10G SFP+ + 2xMedia ports, stackable",4/30/21,MS250-24,MS250,MS250-24,"$7,914","L3, 24x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+18,"PowerSwitch
+ S-Series 1GbE",S3124,"L3, 24x1GbE + 2x10G SFP+ + 2x1GbE combo, stackable, opt. module",,MS250-24,MS250,MS250-24,"$7,914","L3, 24x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+19,,PowerConnect 6224P,"L3, 24x1GbE PoE+ + 4x1G SFP combo, stackable",,MS250-24P,,MS250-24P,"$8,594","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+20,,N2024/P,"L3, 24x1GbE PoE+ + 2x10G SFP+, stackable",,MS250-24P,,MS250-24P,"$8,594","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+21,,S3124P,"L3, 24x1GbE PoE+ + 2x10G SFP+ + 2x1GbE combo, stackable, opt. module",,MS250-24P,,MS250-24P,"$8,594","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+22,,PowerConnect 6248,"L3, 48x1GbE + 4x1G SFP combo, stackable",,MS250-48,,MS250-48,"$11,084","L3, 48x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+23,,N2048,"L3, 48x1GbE + 2x10G SFP+, stackable",,MS250-48,,MS250-48,"$11,084","L3, 48x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+24,,N3048ET-ON,"L3, 48x1GbE + 2x10G SFP+ + 2xMedia ports, stackable",4/30/21,MS250-48,,MS250-48,"$11,084","L3, 48x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+25,,S3148,"L3, 48x1GbE + 2x10G SFP+ + 2x1GbE combo, stackable, opt. module",,MS250-48,,MS250-48,"$11,084","L3, 48x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+26,,PowerConnect 6248P,"L3, 48x1GbE PoE+ + 4x1G SFP combo, stackable",,MS250-48FP,,MS250-48FP,"$13,805","L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+27,,N2048/P,"L3, 48x1GbE PoE+ + 2x10G SFP+, stackable",,MS250-48FP,,MS250-48FP,"$13,805","L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+28,,S3148P,"L3, 48x1GbE PoE+ + 2x10G SFP+ + 2x1GbE combo, stackable, opt. module",,MS250-48FP,,MS250-48FP,"$13,805","L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+29,N1100,N1108T-ON,"L2, 10x1GbE",11/20/20,MS120-8,MS120 Compact,MS120-8,$972,"L2, 8x1GbE + 2x1G SFP, External PSU",-
+30,,N1548P,"L2+ (RIP), 48x1GbE PoE+ + 4x10G SFP+, stackable",,MS225-48FP,,MS225-48FP,"$10,292","L2, 48x1GbE PoE+ (740W) + 4x10G SFP+, internal PSU, stackable (210/225)",-
+31,,N3024EF-ON,"L3, 24x1G SFP + 2x10G SFP+ + 2xMedia ports, stackable",4/30/21,MS410-32,,MS410-32,"$19,873","L3, 32x1G SFP + 2x10G SFP+, redundant PSU (2), stackable",-
+32,,N3132PX-ON,"L3, 24x1GbE + 8x5GbE 802.3bt + 4x10G SFP+, opt. module, stackable",1/31/21,MS355-48X,,MS355-48X,"$22,256","L3, 32x1GbE PoE+ + 16x10GbE UPoE (740W) + 4x10G SFP+ OR 2x40G QSFP+, redundant PSU (2), stackable",-
+33,,N3224T-ON,"L3, 24x1GbE + 4x10G SFP+, stackable",,MS350-24P,,MS350-24P,"$8,553","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (350 only)",-
+34,,N3224P-ON,"L3, 24x1GbE PoE+ + 4x10G SFP+, stackable",,MS350-24P,,MS350-24P,"$8,553","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (350 only)",-
+35,,N3248TE-ON,"L3, 48x1GbE + 4x10G SFP+, stackable",,MS350-48,,MS350-48,"$12,184","L3, 48x1GbE + 4x10G SFP+, redundant PSU (2), stackable (350 only)",-
+36,,N3248P-ON,"L3, 48x1GbE PoE+ + 4x10G SFP+, stackable",,MS350-48,,MS350-48,"$12,184","L3, 48x1GbE + 4x10G SFP+, redundant PSU (2), stackable (350 only)",-
