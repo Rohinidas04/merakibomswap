@@ -1,0 +1,36 @@
+,Series_x,Model_x,Specs_x,Equivalent_x,Notes,Series_y,Model_y,Price,Specs_y,Equivalent_y
+0,"100
+Entry",108E,"L2, 7x1GbE + 1x1GbE PoE+ + 2x1G SFP",MS120-8,This switch only has 1 PoE port on it,MS120 Compact,MS120-8,$972,"L2, 8x1GbE + 2x1G SFP, External PSU",-
+1,,124E,"L2, 24x1GbE + 4x1G SFP",MS120-24,,MS120,MS120-24,"$2,816","L2, 24x1GbE + 4x1G SFP, Internal PSU",-
+2,,124E-POE,"L2, 24x1GbE PoE+ + 4x1G SFP",MS120-24P,,,MS120-24P,"$3,589","L2, 24x1GbE PoE+ + 4x1G SFP, internal PSU",-
+3,,124E-FPOE,"L2, 24x1GbE PoE+ (370W) + 4x1G SFP",MS120-24P,,,MS120-24P,"$3,589","L2, 24x1GbE PoE+ + 4x1G SFP, internal PSU",-
+4,,124F,"L2, 24x1GbE + 4x10G SFP+",MS125-24,,MS125,MS125-24,"$2,816","L2, 24x1GbE + 4x10G SFP+, Internal PSU",-
+5,,124F-POE,"L2, 24x1GbE (185W) + 4x10G SFP+",MS125-24P,,,MS125-24P,"$4,608","L2, 24x1GbE PoE+ + 4x10G SFP+, internal PSU",-
+6,,124F-FPOE,"L2, 24x1GbE (370W) + 4x10G SFP+",MS125-24P,,,MS125-24P,"$4,608","L2, 24x1GbE PoE+ + 4x10G SFP+, internal PSU",-
+7,,148E,"L2, 48x1GbE + 4x1G SFP",MS120-48,,,MS120-48,"$3,602","L2, 48x1GbE + 4x1G SFP, internal PSU",-
+8,,148E-POE,"L2, 48x1GbE PoE+ + 4x1G SFP",MS120-48LP,,,MS120-48LP,"$4,874","L2, 48x1GbE PoE+ (370W) + 4x1G SFP, internal PSU",-
+9,"200
+Mid-Range",224E,"L3, 24x1GbE + 4x1G SFP",MS250-24,"**If L3 not needed, MS120-24",MS250,MS250-24,"$7,914","L3, 24x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+10,"400
+Premium",424D,"L3, 24x1GbE + 4x10G SFP+",MS250-24,**MS250 can still be positioned here,MS250,MS250-24,"$7,914","L3, 24x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+11,,224E-POE,"L3, 24x1GbE PoE+ + 4x1G SFP",MS250-24P,,,MS250-24P,"$8,594","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+12,,224D-FPOE,"L3, 24x1GbE PoE+ (370W) + 4x1G SFP",MS250-24P,,,MS250-24P,"$8,594","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+13,,424D-PoE,"L3, 24x1GbE PoE+ + 4x10G SFP+",MS250-24P,,,MS250-24P,"$8,594","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+14,,424-FPOE,"L3, 24x1GbE PoE+ + 4x10G SFP+",MS250-24P,,,MS250-24P,"$8,594","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+15,,248D,"L3, 48x1GbE + 4x1G SFP",MS250-48,"**If L3 not needed, MS120-48",,MS250-48,"$11,084","L3, 48x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+16,,448D,"L2/3, 48x1GbE + 4SFP+",MS250-48,,,MS250-48,"$11,084","L3, 48x1GbE + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+17,,248E-POE,"L3, 48x1GbE PoE+ + 4x1G SFP",MS250-48LP,,,MS250-48LP,"$12,675","L3, 48x1GbE PoE+ (370W) + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+18,,448D-POE,"L2/3, 48x1GbE PoE+ + 4SFP+",MS250-48LP,,,MS250-48LP,"$12,675","L3, 48x1GbE PoE+ (370W) + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+19,,248E-FPOE,"L3, 48x1GbE PoE+ (740W) + 4x1G SFP",MS250-48FP,,,MS250-48FP,"$13,805","L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+20,,448D-FPOE,"L2/3, 48x1GbE PoE+ (740W) + 4SFP+",MS250-48FP,,,MS250-48FP,"$13,805","L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, redundant PSU (2), stackable (250 only)",-
+21,,424E,"L3, 24x1GbE + 4x10G SFP+",MS350-24P,,,MS350-24P,"$8,553","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (350 only)",-
+22,,424E-POE,"L3, 24x1GbE PoE+ + 4x10G SFP+",MS350-24P,,,MS350-24P,"$8,553","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (350 only)",-
+23,,424E-FPOE,"L3, 24x1GbE PoE+ (370W) + 4x10G SFP+",MS350-24P,,,MS350-24P,"$8,553","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (350 only)",-
+24,,448E,"L3, 48x1GbE + 4x10G SFP+",MS350-48,Can be MS225-48 if L3 not needed,,MS350-48,"$12,184","L3, 48x1GbE + 4x10G SFP+, redundant PSU (2), stackable (350 only)",-
+25,,448E-POE,"L3, 48x1GbE PoE+ + 4x10G SFP+",MS350-48LP,MS225-48LP if L3 not needed,,MS350-48LP,"$14,130","L3, 48x1GbE PoE+ (370W) + 4x10G SFP+, redundant PSU (2), stackable (350 only)",-
+26,,448E-FPOE,"L3, 48x1GbE PoE+ (740W) + 4x10G SFP+",MS350-48FP,"""""",,MS350-48FP,"$15,413","L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, redundant PSU (2), stackable (350 only)",-
+27,"500
+Aggregation",FS-524D-FPOE,"L3, 24x1GbE + 4x10G SFP+ + 2x40G QSFP+",MS355-24X,MS350-24P if 40G uplinks not needed,MS355,MS355-24X,,"L3, 16x1GbE + 8x10GbE UPoE (740W) + 4x10G SFP+ OR 2x40G QSFP+, redundant PSU (2), stackable",-
+28,,524D-FPOE,"L3, 24x1GbE PoE+ + 4x10G SFP+ + 2x40G QSFP+",MS355-24X,,MS355,MS355-24X,,"L3, 16x1GbE + 8x10GbE UPoE (740W) + 4x10G SFP+ OR 2x40G QSFP+, redundant PSU (2), stackable",-
+29,,548D,"L3, 48x1GbE + 4x10G SFP+ + 2x40G QSFP+",MS355-48X,MS350-48 if 40G uplinks not needed,,MS355-48X,"$22,256","L3, 32x1GbE PoE+ + 16x10GbE UPoE (740W) + 4x10G SFP+ OR 2x40G QSFP+, redundant PSU (2), stackable",-
+30,,FS-548D-FPOE,"L3, 48x1GbE PoE+ + 4x10G SFP+ + 2x40G QSFP+",MS355-48X,MS350-48FP if 40G uplinks not needed,,MS355-48X,"$22,256","L3, 32x1GbE PoE+ + 16x10GbE UPoE (740W) + 4x10G SFP+ OR 2x40G QSFP+, redundant PSU (2), stackable",-
