@@ -1,0 +1,31 @@
+,Series_x,Model_x,Specs_x,Equivalent_x,Notes,Type,Series_y,Model_y,Price,Specs_y,EoS,EoL,Equivalent_y
+0,EX2300,EX2300-24T,"L2, 24x1GbE + 4x10G SFP+",MS125-24,,,MS125,MS125-24,"$2,816","L2, 24x1GbE + 4x10G SFP+, Internal PSU",,,-
+1,EX3300,EX3300-24T,"L2, 24x1GbE + 4x10G SFP+/GbE combo",MS125-24,**MS250-24 if using L3,,MS125,MS125-24,"$2,816","L2, 24x1GbE + 4x10G SFP+, Internal PSU",,,-
+2,,EX2300-24P,"L2, 24x1GbE PoE+ + 4x10G SFP+",MS125-24P,,,,MS125-24P,"$4,608","L2, 24x1GbE PoE+ + 4x10G SFP+, internal PSU",,,-
+3,,EX3300-24P,"L2, 24x1GbE PoE+ (405W) + 4x10G SFP+/GbE combo",MS125-24P,**MS250-24P if using L3,,,MS125-24P,"$4,608","L2, 24x1GbE PoE+ + 4x10G SFP+, internal PSU",,,-
+4,,EX2300-48T,"L2, 48x1GbE + 4x10G SFP+",MS125-48,,,,MS125-48,"$4,135","L2, 48x1GbE + 4x10G SFP+, internal PSU",,,-
+5,,EX3300-48T,"L2, 48x1GbE + 4x10G SFP+/GbE combo",MS125-48,**MS250-48 if using L3,,,MS125-48,"$4,135","L2, 48x1GbE + 4x10G SFP+, internal PSU",,,-
+6,,EX2300-48P,"L2, 48x1GbE PoE+ + 4x10G SFP+",MS125-48LP,,,,MS125-48LP,"$5,430","L2, 48x1GbE PoE+ (370W) + 4x10G SFP+, internal PSU",,,-
+7,,EX3300-48P,"L2, 48x1GbE PoE+ (740W) + 4x10G SFP+/GbE combo",MS125-48FP,**MS250-48FP if using L3,,,MS125-48FP,"$8,020","L2, 48x1GbE PoE+ (740W) + 4x10G SFP+, internal PSU",,,-
+8,EX3400,EX3400-24T,"L3, 24x1GbE + 4x10G SFP+ + 2x40G QSFP+",MS350-24,**If 40G not needed,,MS350,MS350-24,"$7,518","L3, 24x1GbE + 4x10G SFP+, redundant PSU (2), stackable (350 only)",,,-
+9,EX4100,EX4100-24T,"L3, 24x1GbE + 4x10GbE + 4x25G SFP28, stackable, MACsec",MS350-24,,,MS350,MS350-24,"$7,518","L3, 24x1GbE + 4x10G SFP+, redundant PSU (2), stackable (350 only)",,,-
+10,,EX4100-F-24T,"L3, 24x1GbE + 4x10G SFP+ + 4x10G SFP+ (stacking), stackable",MS350-24,,,MS350,MS350-24,"$7,518","L3, 24x1GbE + 4x10G SFP+, redundant PSU (2), stackable (350 only)",,,-
+11,,EX3400-48T,"L3, 48x1GbE + 4x10G SFP+ + 2x40G QSFP+",MS350-48,"**If 40G not needed, MS350",,,MS350-48,"$12,184","L3, 48x1GbE + 4x10G SFP+, redundant PSU (2), stackable (350 only)",,,-
+12,,EX4100-48T,"L3, 48x1GbE + 4x10GbE + 4x25G SFP28, stackable, MACsec",MS350-48,**If 25G uplinks not needed,,,MS350-48,"$12,184","L3, 48x1GbE + 4x10G SFP+, redundant PSU (2), stackable (350 only)",,,-
+13,,EX4100-F-48T,"L3, 48x1GbE + 4x10G SFP+ + 4x10G SFP+ (stacking), stackable",MS350-48,,,,MS350-48,"$12,184","L3, 48x1GbE + 4x10G SFP+, redundant PSU (2), stackable (350 only)",,,-
+14,,EX4100-24P,"L3, 24x1GbE PoE+ (740W) + 4x10GbE + 4x25G SFP28, stackable, MACsec",MS350-24P,**If 25G uplinks not needed,,,MS350-24P,"$8,553","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (350 only)",,,-
+15,,EX4100-F-24P,"L3, 24x1GbE PoE+ (370W) + 4x10G SFP+ + 4x10G SFP+ (stacking), stackable",MS350-24P,,,,MS350-24P,"$8,553","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (350 only)",,,-
+16,EX4200,EX4200-24T,"L3, 24x1GbE (8xPoE), opt. module, stackable",MS350-24P,,,,MS350-24P,"$8,553","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (350 only)",,,-
+17,,EX4200-24PX,"L3, 24x1GbE PoE+, opt. moduble, stackable",MS350-24P,,,,MS350-24P,"$8,553","L3, 24x1GbE PoE+ + 4x10G SFP+, redundant PSU (2), stackable (350 only)",,,-
+18,,EX4100-48P,"L3, 48x1GbE PoE+ (740W) + 4x10GbE + 4x25G SFP28, stackable, MACsec",MS350-48FP,"**If 25G uplinks, not needed + combined power for 740W",,,MS350-48FP,"$15,413","L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, redundant PSU (2), stackable (350 only)",,,-
+19,,EX4100-F-48P,"L3, 48x1GbE PoE+ (740W) + 4x10G SFP+ + 4x10G SFP+ (stacking), stackable",MS350-48FP,,,,MS350-48FP,"$15,413","L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, redundant PSU (2), stackable (350 only)",,,-
+20,,EX4200-48PX,"L3, 48x1GbE PoE+, opt. module, stackable",MS350-48FP,,,,MS350-48FP,"$15,413","L3, 48x1GbE PoE+ (740W) + 4x10G SFP+, redundant PSU (2), stackable (350 only)",,,-
+21,,EX4200-48T,"L3, 48x1GbE (8xPoE), opt. module, stackable",MS350-48LP,,,,MS350-48LP,"$14,130","L3, 48x1GbE PoE+ (370W) + 4x10G SFP+, redundant PSU (2), stackable (350 only)",,,-
+22,,EX4300-48MP,"L3 (w/ license), 24x1GbE PoE+ + 24x10GbE UPoE+, opt. module slots",MS355-48X2,,,,MS355-48X2,"$24,510","L3, 24x1GbE + 24x10GbE UPoE (740W) + 4x10G SFP+ OR 2x40G QSFP+, redundant PSU (2), stackable",,,-
+23,EX4400,EX4400-48P ,"L3, 48x1GbE 802.3bt-4 (90Wpp), opt. module slots, stackable",MS390-48P,**Does not do 90W per port,,,MS390-48P,"$12,007","L3, 48x1GbE PoE+ + opt. module, redundant PSU (2), stackable, opt. StackPower",,,-
+24,,EX4400-24P,"L3, 24x1GbE 802.3bt-4 (90Wpp), opt. module slots, stackable",MS390-24P,**Does not do 90W per port,,,MS390-24P,"$7,109","L3, 24x1GbE PoE+ + opt. module, redundant PSU (2), stackable, opt. StackPower",,,-
+25,,EX4400-48T,"L3, 48x1GbE, opt. module slots, stackable",MS390-48,,,,MS390-48,"$10,066","L3, 48x1GbE + opt. module, redundant PSU (2), stackable, opt. StackPower",,,-
+26,,EX4400-24T ,"L3, 48x1GbE, opt. module slots, stackable",MS390-24,,,MS390,MS390-24,"$6,019","L3, 24x1GbE + opt. module, redundant PSU (2), stackable, opt. StackPower",,,-
+27,,EX4400-24MP ,"L3, 24x10GbE 802.3bt-4 (90Wpp), opt. module slots, stackable",MS390-24UX,**Does 60W per port,,,MS390-24UX,"$15,601","L3, 24x10GbE UPoE + opt. module, redundant PSU (2), stackable, opt. StackPower",,,-
+28,,EX4400-48MP,"L3, 36x2.5GbE + 12x10GbE, 802.3bt-4 (90Wpp), opt. module slots, stackable",MS390-48UX,**Does 60W per port,,,MS390-48UX,"$15,535","L3, 36x2.5GbE + 12x10GbE UPoE + opt. module, redundant PSU (2), stackable, opt. StackPower",,,-
+29,EX4550,EX4550-32F,"L3, 32x10G SFP+, opt. module slots",MS425-32,,,,MS425-32,"$29,147","L3, 32x10G SFP+ + 2x40G QSFP+, redundant PSU (2), stackable via SFP port",,,-
